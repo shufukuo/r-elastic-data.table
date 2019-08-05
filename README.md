@@ -1,6 +1,6 @@
 # r-elastic-data.table
 
-```
+```r
 elk2dt <- function( json_query, index, type ) {
 	
 	require(elastic)
